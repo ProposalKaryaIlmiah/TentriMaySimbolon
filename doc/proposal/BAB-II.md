@@ -68,7 +68,7 @@ Sesuai dengan slogannya menurut Kadir (2012b:10) “jQuery sendiri “Write Less
 <b>
 2.10	Software yang digunakan<br>
 2.10.1	Sublime Text 3</b>
-<p><img src="../../img/proposal/sublime.PNG" width="300" height="200"> </p>
+<p align="center"><img src="../../img/proposal/sublime.PNG" width="300" height="200"> </p>
 <p align="center">Gambar 2.1 Sublime Text 3</p>
 <p align="justify">
 Sublime Text adalah teks editor berbasis Python, sebuah teks editor yang elegan, kaya akan fitur, cross-platform, mudah dan simpel yang cukup terkenal di kalangan pengembang, penulis, dan desainer. Para programmer biasanya menggunakan sublime Text untuk menyunting source code yang sedang ia kerjakan. Sampai saat ini Sublime Text sudah mencapai pada versi 3 Beta. [ Yusti, 2015]
@@ -87,7 +87,7 @@ Editor Sublime Text pada jendela terpisah bisa jadikan sebagai tab baru dengan c
 <b>
 2.10.2	XAMPP 1.7.3
  </b>
- <p><img src="../../img/proposal/xampp.PNG" width="300" height="200"> </p>
+ <p align="center"><img src="../../img/proposal/xampp.PNG" width="300" height="200"> </p>
 <p align="center">Gambar 2.2 XAMPP 1.7.3</p>
 <p align="justify">
 Menurut Nugroho (2008) XAMPP merupakan paket PHP berbasis Open Source yang dikembangkan oleh sebuah komunitas Open Sources. Informasinya dapat diperoleh pada alamat http://www.apachefriends.<br>
@@ -99,7 +99,7 @@ Xampp merupakan gabungan dari beberapa program yaitu Apache (Web server), MySQL 
 5.	P (perl).
  </p>
 <b>2.10.3	Star UML</b>
-<p><img src="../../img/proposal/uml.PNG" width="300" height="200"> </p>
+<p align="center"><img src="../../img/proposal/uml.PNG" width="300" height="200"> </p>
  <p align="center">
 Gambar 2.3 Star UML
 </p>
