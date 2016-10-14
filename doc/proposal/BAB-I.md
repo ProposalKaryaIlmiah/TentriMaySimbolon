@@ -36,6 +36,6 @@ Di dalam proposal ini membahas sistem informasi pengajuan proposal karya ilmiah,
 </p>
 <br><b>1.5 Jadwal Kegiatan Pengerjaan Proyek</b>
 <p>
-<img src="../../img/proposal/jadwal.PNG" width="300" height="300">
+<img src="../../img/proposal/jadwal.PNG" width="500" height="300">
 </p>
 <p align="center">Gambar 1.1 Jadwal Kegiatan</p>
