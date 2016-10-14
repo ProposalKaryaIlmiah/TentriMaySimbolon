@@ -1,6 +1,6 @@
 <h3 align="center">SISTEM PERANCANGAN PENGELOLAAN DATA PROPOSAL KARYA ILMIAH MAHASISWA PROGRAM STUDI D4 TI MENGGUNAKAN FRAMEWORK CODEIGNITER BERBASIS WEB </i> <br> (SUB MODUL : PENDISTRIBUSIAN DATA)</h3>
 <p align="center">
-  <img src="./img/proposal/logo.png">
+  <img src="./img/proposal/logo.JPG">
 </p>
 System design data management proposal scientific work of these students is a system to facilitate the coordinators as admin and so did the students in the process of the submission of scientific papers.
 
