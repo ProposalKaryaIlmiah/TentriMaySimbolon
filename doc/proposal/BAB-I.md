@@ -34,3 +34,6 @@ Di dalam proposal ini membahas sistem informasi pengajuan proposal karya ilmiah,
 2.	Sistem ini hanya berlaku hingga proses validasi proposal karya ilmiah yang diajukan oleh mahasiswa.<br>
 3.	Data pengajuan proposal karya ilmiah oleh mahasiswa akan dikelola dan di review oleh koordinator.
 </p>
+<br><b>1.5 Jadwal Kegiatan Pengerjaan Proyek</b>
+<img src="../../img/proposal/jadwal.PNG" width="300" height="300">
+<p align="center">Gambar 1.1 Jadwal Kegiatan</p>
