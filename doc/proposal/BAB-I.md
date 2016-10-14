@@ -1,8 +1,9 @@
 <h3 align="center"> BAB I <br> 
 PENDAHULUAN </h3>
+<br>
 <b>1.1	Latar Belakang </b>
 <p align="justify">
- <br> Politeknik Pos Indonesia adalah salah satu perguruan tinggi yang berlokasi di Bandung dengan akreditasi BAN-PT. Politeknik Pos Indonesia mempunyai dua program studi. 
+ Politeknik Pos Indonesia adalah salah satu perguruan tinggi yang berlokasi di Bandung dengan akreditasi BAN-PT. Politeknik Pos Indonesia mempunyai dua program studi. 
  <br>
 Pada program studi D4 Teknik Informatika setiap tahunnya melaksanakan pembuatan karya ilmiah untuk melatih kreatifitas mahasiswa yang akan menunjang kemampuan mahasiswa dalam perkembangan teknologi informasi.<br>
 Pada program studi D4 Teknik Informatika untuk pengajuan karya ilmiah masih dilakukan secara manual, yang dimana mahasiswa melakukan pengajuan karya ilmiah berbentuk <i></i>hard copy</i> proposal, sehingga mahasiswa harus mengumpulkan <i>hard copy</i> proposal tersebut kepada koordinator. mahasiswa yang tidak berada di lingkungan kampus Politeknik Pos Indonesia pun harus tetap menemui koordinator untuk mengumpul proposal karya ilmiah sehingga terjadi ketidakefesienan dalam waktu. 
