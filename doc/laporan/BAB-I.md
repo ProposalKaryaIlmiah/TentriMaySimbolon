@@ -37,13 +37,12 @@ Di dalam proposal ini membahas sistem informasi pengajuan proposal karya ilmiah,
 <br><b>1.4  Sistematika Penulisan</b>
 <p align="justify">
 Berdasarkan latar belakang dan perumusan masalah di atas, maka penulis menyusun laporan ini dalam suatu sistematika penulisan yang terinci dalam lima bab.
-BAB I PENDAHULUAN <br>
+<br>BAB I PENDAHULUAN 
 Bab ini menjelaskan tentang sistem informasi umum yaitu : latar belakang, identifikasi, tujuan dan ruang lingkup, serta sistematika penulisan.
-BAB II LANDASAN TEORI <br>
+<br>BAB II LANDASAN TEORI
 Bab ini berisikan teori yang diambil dari beberapa kutipan buku, yang berupa pengertian dan definisi. Bab ini juga menjelaskan konsep dasar sistem informasi, Unified Modelling Language (UML) dan definisi lainnya yang berkaitan dengan sistem yang dibahas.
-BAB III ANALISIS DAN PERANCANGAN<br>
-Berisikan tentang analisa sistem informasi data peminjaman dan pengembalian berupa alur data yang berjalan. Penjelasan perancangan Sistem yang akan dibuat seperti data – data yang dibutuhkan dengan metode UML, dsb.
-BAB IV IMPLEMENTASI<br>
+<br>BAB III ANALISIS DAN PERANCANGAN
+Berisikan tentang analisa sistem informasi data peminjaman dan pengembalian berupa alur data yang berjalan. Penjelasan perancangan Sistem yang akan dibuat seperti data – data yang dibutuhkan dengan metode UML, dsb.<br>BAB IV IMPLEMENTASI<br>
 Berisikan tentang stuktur menu, rancangan tampilan, spesifikasi perangkat keras, kekurangan sistem, serta kelebihan sistem .
-BAB V PENUTUP<br>
+<br>BAB V PENUTUP
 Berisikan tentang kesimpulan dan saran adalah uraian tentang pokok-pokok kesimpulan dan saran-saran yang perlu disampaikan dari terbentuknya aplikasi ini baik berupa hal-hal yang dirasa belum sempurna atau tidak tercapai atau berupa kondisi implementasi program yang optimal.
