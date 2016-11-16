@@ -13,7 +13,6 @@ Pada program studi D4 Teknik Informatika untuk pengajuan karya ilmiah masih dila
 <br>
 <b>1.2	Identifikasi Masalah </b>
 <p align="justify">
-1.2	Identifikasi Masalah 
 Berdasarkan latar belakang yang telah dikemukakan di atas, masalah dapat  diidentifikasi sebagai berikut : <br>
 1.	Belum adanya sistem informasi pengajuan proposal karya ilmiah program studi D4 Teknik Informatika. <br>
 2.	Perlu adanya pelayanan berbasis teknologi informasi agar memudahkan mahasiswa dan koordinator. <br>
@@ -38,13 +37,13 @@ Di dalam proposal ini membahas sistem informasi pengajuan proposal karya ilmiah,
 <br><b>1.4  Sistematika Penulisan</b>
 <p align="justify">
 Berdasarkan latar belakang dan perumusan masalah di atas, maka penulis menyusun laporan ini dalam suatu sistematika penulisan yang terinci dalam lima bab.
-BAB I PENDAHULUAN
+BAB I PENDAHULUAN <br>
 Bab ini menjelaskan tentang sistem informasi umum yaitu : latar belakang, identifikasi, tujuan dan ruang lingkup, serta sistematika penulisan.
-BAB II LANDASAN TEORI
+BAB II LANDASAN TEORI <br>
 Bab ini berisikan teori yang diambil dari beberapa kutipan buku, yang berupa pengertian dan definisi. Bab ini juga menjelaskan konsep dasar sistem informasi, Unified Modelling Language (UML) dan definisi lainnya yang berkaitan dengan sistem yang dibahas.
-BAB III ANALISIS DAN PERANCANGAN
+BAB III ANALISIS DAN PERANCANGAN<br>
 Berisikan tentang analisa sistem informasi data peminjaman dan pengembalian berupa alur data yang berjalan. Penjelasan perancangan Sistem yang akan dibuat seperti data – data yang dibutuhkan dengan metode UML, dsb.
-BAB IV IMPLEMENTASI
+BAB IV IMPLEMENTASI<br>
 Berisikan tentang stuktur menu, rancangan tampilan, spesifikasi perangkat keras, kekurangan sistem, serta kelebihan sistem .
-BAB V PENUTUP
+BAB V PENUTUP<br>
 Berisikan tentang kesimpulan dan saran adalah uraian tentang pokok-pokok kesimpulan dan saran-saran yang perlu disampaikan dari terbentuknya aplikasi ini baik berupa hal-hal yang dirasa belum sempurna atau tidak tercapai atau berupa kondisi implementasi program yang optimal.
